@@ -19,6 +19,8 @@ The Last Pilgrim is a third person shooter open world RPG game. The world has fa
 <p align="center">
 - Stats system that includes level, gold, experience, health, damage, ammo and magazine capacity<br/>
 <br />
+- Leveling system. Damaging and killing an enemy gives you experience as well as completing quests.<br/>
+<br />
 - In combat feature that indicate if the player is in combat or not, so the player will know if an enemy is targeting him.<br/>
 <br />
 - Third person shooting combat (Aiming, Shooting, Reloading)
@@ -27,7 +29,22 @@ The Last Pilgrim is a third person shooter open world RPG game. The world has fa
 <br />
 <br />
 - Ability System. These abilities are unlocked when reaching a certain level. They also have a certain cooldown. <br/>
-<img src="https://media.giphy.com/media/NdXKrRvEMeFAyOIYkM/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+The FX are free assets from the Unity store.<br/>
+<br/>
+Shooting Projectile <br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdiMGVmNTM1ZGZhZDYzMjc5ZmVkYWE5NWViOGFkMGJmYWY4NTEyYiZjdD1n/AAUyXh3iAmc7up63dX/giphy.gif" height="80%" width="80%" alt="Combat System"/>
+<br />
+<br />
+Dash <br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwMGZhZjBhNTcyMTkyNDJkZjY0NDI0MTJkNDhjMWY0NzI0OWIzYiZjdD1n/Sk3wDupZpRxddQNoPt/giphy.gif" height="80%" width="80%" alt="Combat System"/>
+<br />
+<br />
+Laser Beam <br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhMTc4ZDM5OGNjYmQxY2Q4ZWFkZTAwYzdkMWE2NGI5MDhiYmIwZCZjdD1n/uEBGagEz58mmCYInDl/giphy.gif" height="80%" width="80%" alt="Combat System"/>
+<br />
+<br />
+Shield <br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWViZWY3MWM1ZGE2YzA0NTE0MWE3ZGIwOTEzYjFiNjQ0YjA3NTY2MCZjdD1n/9DGoSyA4ps3u7Zw2D2/giphy.gif" height="80%" width="80%" alt="Combat System"/>
 <br />
 <br />
 
