@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd0820eaa6dac94ca34c2c4abb7b7e8, type: 3}
+  m_Name: Quest2
+  m_EditorClassIdentifier: 
+  questID: 2
+  questName: Desert Danger
+  description: The Merchant would like to open a route towards the Wasteland. He
+    asks you to gather intel on the Beasts residing there.
+  killObjectives:
+  - amount: 10
+    currentAmount: 0
+    ID: 0
+    type: Deathstalker
+    questItem:
+      Name: 
+      ID: 0
+      Description: 
+      HealAmount: 0
+  collectObjectives: []

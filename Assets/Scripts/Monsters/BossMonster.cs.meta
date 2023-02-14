@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fce4224cbd79d3d499e0d0458b24b888
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - agent: {instanceID: 0}
+  - playerPos: {instanceID: 0}
+  - hitbox: {instanceID: 0}
+  - itemDrop: {fileID: 1256547559373477149, guid: 80c6ed21da2c8a0438f2f5c887bbb209, type: 3}
+  - fireball: {instanceID: 0}
+  - muzzle: {instanceID: 0}
+  - bossHealthBar: {instanceID: 0}
+  - bossUI: {instanceID: 0}
+  - bossDefeat: {instanceID: 0}
+  - bossDead: {instanceID: 0}
+  - music: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - supplies: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

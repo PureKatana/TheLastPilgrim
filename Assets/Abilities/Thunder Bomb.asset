@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2161aad1ef272fb439d5a67e541052ce, type: 3}
+  m_Name: Thunder Bomb
+  m_EditorClassIdentifier: 
+  name: Thunder Bomb
+  cooldownTime: 10
+  cooldownTimeUI: 7
+  activeTime: 1
+  canUse: 0
+  performingAbility: 0
+  bombProjectile: {fileID: 4146932020982170, guid: 113db6e6fdd147b4486296ad1c182dfe, type: 3}
+  muzzle: {fileID: 4440228430039996, guid: 97b0bf16c5eddcd45a58bebf0642d4ee, type: 3}

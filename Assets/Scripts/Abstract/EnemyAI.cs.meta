@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ec691f1057c38049bf72ab9a725c743
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - agent: {instanceID: 0}
+  - player: {instanceID: 0}
+  - hitbox: {instanceID: 0}
+  - itemDrop: {fileID: 1256547559373477149, guid: 80c6ed21da2c8a0438f2f5c887bbb209, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

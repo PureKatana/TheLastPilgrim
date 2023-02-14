@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd0820eaa6dac94ca34c2c4abb7b7e8, type: 3}
+  m_Name: Quest0
+  m_EditorClassIdentifier: 
+  questID: 0
+  questName: Collect Materials
+  description: The Priestess needs help gathering materials to make medicine and
+    food.
+  killObjectives: []
+  collectObjectives:
+  - amount: 3
+    currentAmount: 0
+    ID: 6
+    type: Tree Sap Ointment
+    questItem:
+      Name: Tree Sap Ointment
+      ID: 6
+      Description: 
+      HealAmount: 0
+  - amount: 2
+    currentAmount: 0
+    ID: 1
+    type: Beast Fang
+    questItem:
+      Name: Beast Fang
+      ID: 1
+      Description: 
+      HealAmount: 0
+  - amount: 2
+    currentAmount: 0
+    ID: 2
+    type: Beast Scales
+    questItem:
+      Name: Beast Scales
+      ID: 2
+      Description: 
+      HealAmount: 0
+  - amount: 4
+    currentAmount: 0
+    ID: 7
+    type: Wild Berries
+    questItem:
+      Name: Wild Berries
+      ID: 7
+      Description: 
+      HealAmount: 0

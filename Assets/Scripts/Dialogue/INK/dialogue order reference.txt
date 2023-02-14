@@ -1,0 +1,32 @@
+priestess dialogue sorter:
+0 - Q1intro - if YES, go to 2; if NO, go to 1
+1 - Q1N1 - if YES, go to 2
+2 - Q1Y1
+3 - Q1end
+4 - Q1end2 - check merchant dialogue to move forward
+5 - Q2intro - if YES, go to 7; if NO, go to 6
+6 - Q2N1 - if YES, go to 6
+7 - Q2Y1
+8 - Q2end
+9 - Q2end2
+
+merchant dialogue sorter:
+0 - Q0intro - greets you to the game
+1 - Q0X1 - re explains mechanics
+2 - QXintro - prerequisite: Q1
+3 - Q3Y1 - if selected on QXintro, go here
+4 - Q3end
+5 - Q4Y1 - if selected on QXintro, go here
+6 - Q4end
+7 - Q5Y1 = if selected on QXintro, go here
+8 - Q5end
+9 - QXend - if both QX quests cleared
+10 - QXend2
+
+quest sorter
+Quest0 - priestess first quest
+Quest1 - priestess second quest
+Quest2 - merchant mini quest 1
+Quest3 - merchant mini quest 2
+Quest4 - merchant mini quest 3
+

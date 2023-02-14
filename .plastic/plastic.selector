@@ -1,0 +1,3 @@
+rep "Team A 7340 W22@katana_puppy@cloud"
+  path "/"
+    smartbranch "/main"
