@@ -17,7 +17,7 @@ The Last Pilgrim is a third person shooter open world RPG game. The world has fa
 
 <h3 align="center">Combat System :</h3>
 <p align="center">
-- Stats system that includes level, experience, health, damage, ammo and magazine capacity<br/>
+- Stats system that includes level, gold, experience, health, damage, ammo and magazine capacity<br/>
 <br />
 - In combat feature that indicate if the player is in combat or not, so the player will know if an enemy is targeting him.<br/>
 <br />
@@ -27,7 +27,7 @@ The Last Pilgrim is a third person shooter open world RPG game. The world has fa
 <br />
 <br />
 - Ability System. These abilities are unlocked when reaching a certain level. They also have a certain cooldown. <br/>
-<img src="https://media.giphy.com/media/NdXKrRvEMeFAyOIYkM/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+<img src="https://media.giphy.com/media/NdXKrRvEMeFAyOIYkM/giphy.gif" height="80%" width="80%" alt="Combat System"/>
 <br />
 <br />
 
